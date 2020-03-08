@@ -1,8 +1,8 @@
 {
-  "name": "big-integer",
+  "name": "@deanpress/big-integer",
   "version": "1.6.48",
-  "author": "Peter Olson <peter.e.c.olson+npm@gmail.com>",
-  "description": "An arbitrary length integer library for Javascript",
+  "author": "Dean van Dugteren <dean@nos.io>",
+  "description": "A fork of Peter Olson's BigInter library that always assumes native BigInt is not supported.",
   "contributors": [],
   "bin": {},
   "scripts": {
